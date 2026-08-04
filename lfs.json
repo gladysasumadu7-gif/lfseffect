@@ -1,8 +1,8 @@
 {
   "data": {
     "bags": [
-      {"brandName": "", "price": "", "details": "", "imgPath": ["A1.jpg", "A2.jpg", "A3.jpg", "A4.jpg"]},
-      {"brandName": "", "price": "", "details": "", "imgPath": ["B1.jpg", "B2.jpg", "B3.jpg", "B4.jpg"]},
+      {"brandName": "HERMES", "price": "450", "details": "BB monogram print/ hybrid with front zipper pockets/ Dark brown and tan leather trim with polished gold-tone hardware.", "imgPath": ["A1.jpg", "A2.jpg", "A3.jpg", "A4.jpg"]},
+      {"brandName": "Vetiai", "price": "", "details": "This Vetiai luxury mini bag features a structured square design with a distinctive brown braided handle and studded hardware. ", "imgPath": ["B1.jpg", "B2.jpg", "B3.jpg", "B4.jpg"]},
       {"brandName": "", "price": "", "details": "", "imgPath": ["C1.jpg", "C2.jpg", "C3.jpg", "C4.jpg"]},
       {"brandName": "", "price": "", "details": "", "imgPath": ["D1.jpg", "D2.jpg", "D3.jpg", "D4.jpg"]},
       {"brandName": "", "price": "", "details": "", "imgPath": ["E1.jpg", "E2.jpg", "E3.jpg", "E4.jpg"]},
